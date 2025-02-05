@@ -4,7 +4,7 @@
   <a href="https://github.com/Gajendra9679"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=450&lines=Python+Developer;DSA+Enthusiast;Tech+Explorer;Open+to+Collaboration!" alt="Typing SVG" /></a>
 </p>
 
----
+--- 
 
 ## 🚀 **About Me**
 - 💻 Passionate about **Python, DSA, and Software Development**
