@@ -40,7 +40,7 @@
 
 ## 🌍 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/gajendra-thakur-854986233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gajendrathakur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/u/Gajendra_3110/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://www.geeksforgeeks.org/user/gajendrat/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
   <a href="https://github.com/Gajendra9679"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
