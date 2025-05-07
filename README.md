@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gajendra Thakur! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Gajendra9679"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=100&color=F7B93E&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributer;Python+Developer;DSA+Enthusiast;Tech+Explorer;Open+to+Collaboration!" alt="Typing SVG" /></a>
+  <a href="https://github.com/Gajendra9679"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=100&color=F7B93E&center=true&vCenter=true&width=450&lines=Software+Engineer;Open+Source+Contributer;DSA+Enthusiast;Tech+Explorer;Open+to+Collaboration!" alt="Typing SVG" /></a>
 </p>
 
 --- 
