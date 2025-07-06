@@ -9,10 +9,10 @@
 ## 🚀 **About Me**
 - 💻 Passionate about **Python, DSA, and Software Development**
 - 📊 Currently working on **MERN Stack**
-<!--  - 🔥 Solved **600+ DSA problems** across various coding platforms -->
 - 🌱 Exploring **Machine Learning & AI**
 - 👨‍💻 Actively contributing to **open-source projects**
 - 🎯 Goal: **Building scalable software solutions**
+- <!--  - 🔥 Solved **600+ DSA problems** across various coding platforms -->
 
 ---
 
