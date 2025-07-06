@@ -13,7 +13,6 @@
 - 👨‍💻 Actively contributing to **open-source projects**
 - 🎯 Goal: **Building scalable software solutions**
 
-
 ---
 
 ## 🛠️ **Tech Stack**
