@@ -12,7 +12,7 @@
 - 🌱 Exploring **Machine Learning & AI**
 - 👨‍💻 Actively contributing to **open-source projects**
 - 🎯 Goal: **Building scalable software solutions**
-- <!--  - 🔥 Solved **600+ DSA problems** across various coding platforms -->
+
 
 ---
 
@@ -51,4 +51,6 @@
 <!---
 Gajendra9679/Gajendra9679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ - 🔥 Solved **600+ DSA problems** across various coding platforms 
 --->
