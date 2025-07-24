@@ -12,7 +12,7 @@
 - 🌱 Exploring **Machine Learning & AI**
 - 👨‍💻 Actively contributing to **open-source projects**
 - 🔥 Solved **600+ DSA problems** across various coding platforms
-- 🏆 Idea selected for **MSME idea Hackathon 4.0**, awarded **₹13.5 Lakh**.
+- 🏆 Idea selected for **MSME idea Hackathon 4.0**, awarded **₹13.5 Lakh**
 - 🎯 Goal: **Building scalable software solutions**
 
 ---
