@@ -11,6 +11,7 @@
 - 📊 Currently working on **MERN Stack**
 - 🌱 Exploring **Machine Learning & AI**
 - 👨‍💻 Actively contributing to **open-source projects**
+- 🔥 Solved **600+ DSA problems** across various coding platforms 
 - 🎯 Goal: **Building scalable software solutions**
 
 ---
@@ -25,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+
 </p>
 
 
@@ -37,6 +42,10 @@
 </p>
 
 ---
+
+
+
+
 
 ## 🌍 **Connect with Me**
 <p align="center">
